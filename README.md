@@ -1,9 +1,9 @@
-2<img width="500" height="250" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/19a1f972-d774-4aae-98b0-39707ee10109" />
+<img width="500" height="250" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/19a1f972-d774-4aae-98b0-39707ee10109" />
 
 ## Hi there 👋
 
 - 🔭 I’m currently working on surviving university (UNLP)
-- 🌱 I’m learning C, Java, Assembly 
+- 🌱 I’m learning C, Java, Assembly 1
 - 💬 Ask me about anything related to the UNLP IC (computer engineer) classes
 - 📫 How to reach me: idk
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
