@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on surviving university (UNLP)
-- 🌱 I’m learning C, Java, Assembly 8
+- 🌱 I’m learning C, Java, Assembly 9
 
 - 💬 Ask me about anything related to the UNLP IC (computer engineer) classes
 - 📫 How to reach me: idk
