@@ -47,8 +47,8 @@
 ## 🎧 Vibes
 
 [![Classic](https://img.shields.io/badge/Classic%20-D4A017?style=for-the-badge)](https://open.spotify.com/playlist/27tzBeMVgQHKS8E4jMGg9k)
-[![Epic](https://img.shields.io/badge/Epic%20-E34234?style=for-the-badge)](https://open.spotify.com/playlist/3HvgaZeBWbr7UjFeicPFRI)
 [![My Studying Vibes](https://img.shields.io/badge/My_Studying_Vibes%20-3E8C73?style=for-the-badge)](https://open.spotify.com/playlist/6m5YTQ4TgkkqJ5QFNi085U)
+[![Epic](https://img.shields.io/badge/Epic%20-E34234?style=for-the-badge)](https://open.spotify.com/playlist/3HvgaZeBWbr7UjFeicPFRI)
 
 ## 🐍 Contributions
 
