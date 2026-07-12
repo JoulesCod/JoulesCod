@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
 - ✨ What I like: dragons...
 - 🤔 What it has to do with anything: nothing.
-- 👩‍🏫 current job: assistant teacher at UNLP in Programación II 
+- 👩‍🏫 current job: assistant teacher 
 
 ## 📊 GitHub Stats
 
