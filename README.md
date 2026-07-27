@@ -1,6 +1,6 @@
 <img width="500" height="250" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/19a1f972-d774-4aae-98b0-39707ee10109" />
 
-## Hi there 👋
+## Hi World!! 👋
 
 - 🔭 I’m currently working on surviving university (UNLP)
 - 🌱 I’m learning C, Java, Assembly
