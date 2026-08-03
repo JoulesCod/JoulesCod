@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on surviving university (UNLP)
 - 🌱 I’m learning C, Java, Bash
-- 💬 <mark/><mark/>**Ask me about anything related to the UNLP**</mark></mark> IC (computer engineer) classes (or Lic) ⭐
+- 💬 <mark><mark><mark>**Ask me about anything related to the UNLP**</mark></mark></mark> IC (computer engineer) classes (or Lic) ⭐
 - 📫 How to reach me: idk
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
 - ✨ What I like: dragons...
