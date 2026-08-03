@@ -23,7 +23,7 @@
 
 
 ## 🧑‍💻 Languages
-<p align="center">
+<!-- <p align="center">
 
 ![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-FF3B1F?style=for-the-badge\&logo=java\&logoColor=white)
@@ -33,6 +33,18 @@
 ![HTML](https://img.shields.io/badge/HTML-FF6A2B?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-4A90E2?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+</p> -->  
+<p align="center">
+
+[![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)](https://www.freepascal.org/)
+[![Java](https://img.shields.io/badge/Java-FF3B1F?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![R-Info](https://img.shields.io/badge/R--Info-6FA8DC?style=for-the-badge)](https://github.com/JoulesCod)
+[![Assembly](https://img.shields.io/badge/Assembly-8B5E34?style=for-the-badge)](https://en.wikipedia.org/wiki/Assembly_language)
+[![C](https://img.shields.io/badge/C-2F80ED?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
+[![HTML](https://img.shields.io/badge/HTML-FF6A2B?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS](https://img.shields.io/badge/CSS-4A90E2?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 </p>
 
