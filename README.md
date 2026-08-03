@@ -8,8 +8,7 @@
 - 📫 How to reach me: idk
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
 - ✨ What I like: dragons... <img width="40" height="25" alt="PinkLoopGIFbyLiorShkedi" src="https://github.com/user-attachments/assets/8d54d453-e794-4aaf-b935-101e04afdbf1" />
-- 🤔 What it has to do with anything: nothing.<img width="25" height="25" alt="americaferreradragonGIF" src="https://github.com/user-attachments/assets/81dad180-f55a-4f7c-97e1-1aafb9b8e6a0" />
-
+- 🤔 What it has to do with anything: nothing. 
 - 👩‍🏫 current job: assistant teacher 
 
 ## 📊 GitHub Stats
