@@ -7,7 +7,7 @@
 - 💬 <mark><mark><mark>**Ask me about anything related to the UNLP**</mark></mark></mark> IC (computer engineer) classes (or Lic) ⭐
 - 📫 How to reach me: idk
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
-- ✨ What I like: dragons...
+- ✨ What I like: dragons... <img width="10" height="480" alt="PinkLoopGIFbyLiorShkedi" src="https://github.com/user-attachments/assets/8d54d453-e794-4aaf-b935-101e04afdbf1" />
 - 🤔 What it has to do with anything: nothing.
 - 👩‍🏫 current job: assistant teacher 
 
