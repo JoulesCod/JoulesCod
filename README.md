@@ -39,8 +39,8 @@
 ## 🛠️ Tools I Use
 <p align="center">
 
-![VSCode](https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF3B1F?style=for-the-badge\&logo=git\&logoColor=white)
+[![VSCode](https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-FF3B1F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 </p>
 
