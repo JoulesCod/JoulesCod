@@ -9,7 +9,12 @@
 - ⚡ Fun fact: ... (i´ll leave this here until I have one)
 - ✨ What I like: dragons... <img width="40" height="25" alt="PinkLoopGIFbyLiorShkedi" src="https://github.com/user-attachments/assets/8d54d453-e794-4aaf-b935-101e04afdbf1" />
 - 🤔 What it has to do with anything: nothing. 
-- 👩‍🏫 current job: assistant teacher 
+- 👩‍🏫 current job: assistant teacher
+
+### 📚 Looking for UNLP resources?
+In the **UNLP** repository you'll find notes, summaries, exams, and information about the courses I've already completed and the ones I'm currently taking.
+- If you're studying **any <mark><mark>Engineering</mark></mark> degree**, you'll probably find the Math, Physics and other shared courses useful.
+- If you're studying <mark><mark>**Licenciatura en Sistemas**</mark></mark> or <mark><mark>**Analista Programador Universitario (APU)**</mark></mark>, you may also find useful material for the Computer Science courses that overlap with your program.
 
 ## 📊 GitHub Stats
 
