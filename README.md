@@ -20,6 +20,7 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=JoulesCod&show_icons=true&theme=gruvbox" width="43%"/> NO FUNCIONA --> 
+  <img src="TU-VERCEL/api?username=JoulesCod&show_icons=true&theme=gruvbox" width="46%"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoulesCod&show_icons=true&theme=gruvbox" width="46%"/>
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoulesCod&theme=gruvbox"/> ES FEO -->  
   &nbsp;&nbsp;&nbsp;&nbsp;
