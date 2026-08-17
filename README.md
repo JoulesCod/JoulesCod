@@ -17,8 +17,13 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 - If you're studying <mark><mark>**Licenciatura en Sistemas**</mark></mark> or <mark><mark>**Analista Programador Universitario (APU)**</mark></mark>, you may also find useful material for the Computer Science courses that overlap with your program.
 
 ## 📊 GitHub Stats
+<p align="center">
+  <!-- Instancia alternativa de GitHub Stats -->
+  <img src="https://github-readme-stats-8239.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark" alt="GitHub Streak" />
+  <!-- Instancia oficial/estable de GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=dark" alt="GitHub Streak" />
+</p>
 
 <p align="center">
 <p align="center">
