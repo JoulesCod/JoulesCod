@@ -27,10 +27,11 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 </p>
 
 <p align="center">
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JoulesCode&show_icons=true&theme=radium&count_private=true" alt="GitHub Stats" />
-  <!-- GitHub Readme Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=JoulesCode&theme=radium&count_private=true" alt="GitHub Streak" />
+  <!-- Instancia alternativa de GitHub Stats -->
+  <img src="https://github-readme-stats-8239.vercel.app/api?username=JoulesCod&show_icons=true&theme=radium" alt="GitHub Stats" />
+
+  <!-- Instancia oficial/estable de GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=radium" alt="GitHub Streak" />
 </p>
 
 ## 📊 GitHub Stats 2
