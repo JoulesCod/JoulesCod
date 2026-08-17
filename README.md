@@ -18,10 +18,12 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 
 ## 📊 GitHub Stats
 <p align="center">
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoulesCod&theme=react-dark" alt="Activity Graph" with 46% />
-
-  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=dark" alt="GitHub Streak" />
+  <!-- GitHub Readme Stats (Modo Oscuro / Dark Theme) -->
+  <img src="https://github-readme-stats.shion.dev/api?username=JoulesCod&show_icons=true&theme=dark" alt="JoulesCod GitHub Stats" width="49%" />
+  
+  <!-- GitHub Readme Streak (Modo Oscuro / Dark Theme) -->
+  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=dark" alt="JoulesCod GitHub Streak" width="49%" />
+</p>
 
 ## 🧑‍💻 Languages
 <p align="center">
