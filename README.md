@@ -26,6 +26,7 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JoulesCod&theme=gruvbox" width="45.5%"/> 
 </p>
 
+## 📊 GitHub Stats
 <p align="center">
   <!-- Tarjeta 1: Estadísticas generales -->
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium" alt="GitHub Stats" />
