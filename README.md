@@ -40,7 +40,7 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoulesCod&theme=react-dark" alt="Activity Graph" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoulesCod&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ## 🧑‍💻 Languages
 <p align="center">
