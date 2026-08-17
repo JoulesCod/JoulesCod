@@ -21,7 +21,7 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoulesCod&theme=react-dark" alt="Activity Graph" with 46% />
 
-  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=radium" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=dark" alt="GitHub Streak" />
 
 ## 🧑‍💻 Languages
 <p align="center">
