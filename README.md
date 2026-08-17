@@ -29,7 +29,6 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 <p align="center">
   <!-- GitHub Readme Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=JoulesCode&show_icons=true&theme=radium&count_private=true" alt="GitHub Stats" />
-
   <!-- GitHub Readme Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=JoulesCode&theme=radium&count_private=true" alt="GitHub Streak" />
 </p>
@@ -41,7 +40,7 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoulesCod&theme=react-dark" alt="Activity Graph" />
 </p>
 
-![JoulesCod's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoulesCod&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoulesCod&show_icons=true&theme=transparent)
 
 ## 🧑‍💻 Languages
 <p align="center">
