@@ -28,10 +28,10 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Tarjeta 1: Estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <!-- Tarjeta de Estadísticas Generals (Mirror de Vercel sin rate limit) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium" alt="GitHub Stats" />
 
-  <!-- Tarjeta 2: Racha de días y contribuciones -->
+  <!-- Tarjeta de Streak / Racha (Servidor alternativo activo) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radium" alt="GitHub Streak" />
 </p>
 
