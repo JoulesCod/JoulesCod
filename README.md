@@ -32,7 +32,7 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
   <img src="https://github-readme-stats.vercel.app/api?username=JoulesCod&show_icons=true&theme=radium" alt="GitHub Stats" />
 
   <!-- Tarjeta 2: Racha de días y contribuciones -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoulesCod&theme=radium" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=JoulesCod&theme=radium" alt="GitHub Streak" />
 </p>
 
 ## 🧑‍💻 Languages
