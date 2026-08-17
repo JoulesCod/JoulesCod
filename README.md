@@ -18,13 +18,8 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=JoulesCod&show_icons=true&theme=gruvbox" alt="JoulesCod GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=tokyonight" alt="JoulesCod GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=JoulesCod&show_icons=true&theme=tokyonight" alt="JoulesCod GitHub Stats" width="46%" />
-  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=tokyonight" alt="JoulesCod GitHub Streak" width="46.5%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=JoulesCod&show_icons=true&theme=gruvbox" alt="JoulesCod GitHub Stats" width="46%" />
+  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=tokyonight" alt="JoulesCod GitHub Streak" width="52%" />
 </p>
 
 ## 🧑‍💻 Languages
