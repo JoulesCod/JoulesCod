@@ -18,30 +18,13 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=JoulesCod&show_icons=true&theme=gruvbox" width="43%"/> NO FUNCIONA --> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoulesCod&show_icons=true&theme=gruvbox" width="46%"/>
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoulesCod&theme=gruvbox"/> ES FEO -->  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoulesCod&theme=gruvbox" width="45.5%"/> 
-</p>
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark" alt="GitHub Streak" />
 
-<p align="center">
-  <!-- Instancia alternativa de GitHub Stats -->
-  <img src="https://github-readme-stats-8239.vercel.app/api?username=JoulesCod&show_icons=true&theme=radium" alt="GitHub Stats" />
-
-  <!-- Instancia oficial/estable de GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=radium" alt="GitHub Streak" />
-</p>
-
-## 📊 GitHub Stats 2
 <p align="center">
 <p align="center">
   <!-- Gráfico de Actividad de GitHub -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoulesCod&theme=react-dark" alt="Activity Graph" />
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ## 🧑‍💻 Languages
 <p align="center">
