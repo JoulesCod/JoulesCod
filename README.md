@@ -19,7 +19,7 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 ## 📊 GitHub Stats
 <p align="center">
   <!-- Instancia alternativa de GitHub Stats -->
-  <img src="https://github-readme-stats-8239.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-8239.vercel.app/api?username=JoulesCod&show_icons=true&theme=radium" alt="GitHub Stats" />
 
   <!-- Instancia oficial/estable de GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=dark" alt="GitHub Streak" />
