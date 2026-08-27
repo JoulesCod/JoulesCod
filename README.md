@@ -23,6 +23,12 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
   <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=radical" alt="JoulesCod GitHub Streak" width="49%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=JoulesCod&show_icons=true&theme=gruvbox" alt="JoulesCod GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=JoulesCod&theme=gruvbox&v=1" alt="JoulesCod GitHub Streak" width="48%" />
+</p>
+
 ## 🧑‍💻 Languages
 <p align="center">
 
