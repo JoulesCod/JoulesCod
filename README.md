@@ -14,7 +14,7 @@
 ### 📚 Looking for UNLP resources?
 <p align="left">
   <a href="https://github.com/JoulesCod/UNLP/tree/main">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=UNLP&theme=radical" width="32%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=UNLP&theme=radical" width="50%" />
   </a>
 </p>
 In the **UNLP** repository you'll find notes, summaries, exams, and information about the courses I've already completed and the ones I'm currently taking.
