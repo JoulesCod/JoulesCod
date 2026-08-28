@@ -1,6 +1,6 @@
 <img width="550" height="250" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/19a1f972-d774-4aae-98b0-39707ee10109" />
 
-## Hi World!! 👋
+# Hi World!! 👋
 
 - 🔭 I’m currently working on surviving university (UNLP)
 - 🌱 I’m learning C, Java, Bash
@@ -11,14 +11,14 @@
 - 🤔 What it has to do with anything: nothing. 
 - 👩‍🏫 current job: assistant teacher
 
-### 📚 Looking for UNLP resources?
+## 📚 Looking for UNLP resources?
 <p align="left">
   <a href="https://github.com/JoulesCod/UNLP/tree/main">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=UNLP&theme=radical" width="50%" />
   </a>
 </p>
 In the **UNLP** repository you'll find notes, summaries, exams, and information about the courses I've already completed and the ones I'm currently taking.
-- If you're studying **any <mark><mark>Engineering</mark></mark> degree**, you'll probably find the Math, Physics and other shared courses useful.
+- If you're studying **any** <mark><mark>**Engineering**</mark></mark> **degree**, you'll probably find the Math, Physics and other shared courses useful.
 - If you're studying <mark><mark>**Licenciatura en Sistemas**</mark></mark> or <mark><mark>**Analista Programador Universitario (APU)**</mark></mark>, you may also find useful material for the Computer Science courses that overlap with your program.
 
 ## 📊 GitHub Stats
