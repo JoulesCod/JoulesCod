@@ -18,8 +18,8 @@
   </a>
 </p>
 In the **UNLP** repository you'll find notes, summaries, exams, and information about the courses I've already completed and the ones I'm currently taking. <br>
-- If you're studying <mark><mark> **any Engineering degree** </mark></mark>, you'll probably find the Math, Physics and other shared courses useful. <br>
-- If you're studying <mark><mark> **Licenciatura en Sistemas** </mark></mark> or <mark><mark>**Analista Programador Universitario (APU)**</mark></mark>, you may also find useful material for the Computer Science courses that overlap with your program. <br>
+- If you're studying <mark><mark>**any Engineering degree**</mark></mark>, you'll probably find the Math, Physics and other shared courses useful. <br>
+- If you're studying <mark><mark>**Licenciatura en Sistemas**</mark></mark> or <mark><mark>**Analista Programador Universitario (APU)**</mark></mark>, you may also find useful material for the Computer Science courses that overlap with your program. <br>
 
 ## 📊 GitHub Stats
 <p align="center">
