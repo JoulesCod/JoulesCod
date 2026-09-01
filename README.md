@@ -17,6 +17,7 @@
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=UNLP&theme=radical" width="50%" />
   </a>
 </p>
+
 In the **UNLP** repository you'll find notes, summaries, exams, and information about the courses I've already completed and the ones I'm currently taking. <br>
 
 - If you're studying <mark><mark>**any Engineering degree**</mark></mark>, you'll probably find the Math, Physics and other shared courses useful. <br>
