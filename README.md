@@ -1,5 +1,4 @@
 <img width="550" height="250" alt="FishyAnimeGIF" src="https://github.com/user-attachments/assets/19a1f972-d774-4aae-98b0-39707ee10109" />
-<img width="250" height="303" alt="HappyGeorgeCostanzaGIF" src="https://github.com/user-attachments/assets/9e531950-671c-4605-87e8-97c089e0dd73" />
 
 # Hi World!! 👋
 
