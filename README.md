@@ -69,7 +69,7 @@ In the **UNLP** repository you'll find notes, summaries, exams, and information 
 
 Motivation:    ▰▰▰▰▰▰▰
 Sleep:         ▰▰▰▱▱▱▱
-Café con SUBE: ▰▰▰▰▰▱▱
+Café con SUBE: ▰▰▰▰▰▰▱ 
 
 ```
 
